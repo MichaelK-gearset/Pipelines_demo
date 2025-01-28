@@ -49,5 +49,4 @@ translations/*.translation-meta.xml
 
 # Any other metadata types you don't want to track
 # Example: unused reports or dashboards
-reports/
-dashboards/
+unpackaged/main/default/objectTranslations
