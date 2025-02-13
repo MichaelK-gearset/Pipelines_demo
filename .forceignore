@@ -1,0 +1,51 @@
+# Specify files and metadata to exclude from source tracking
+# This helps prevent unnecessary metadata from being added to version control
+
+# User-specific files
+**.user
+**.org
+
+# Local IDE or tool-specific files
+.vscode/**
+.idea/**
+
+# Temporary files
+*.log
+*.tmp
+
+# Deployment files
+*.zip
+*.jar
+
+# Apex debug logs
+**/debug.log
+
+# Profiles and Permissions (if these are managed in a different way)
+profiles/*
+permissionsets/*
+
+# Unwanted metadata types (example: Analytics templates, Custom Labels, etc.)
+**/analytics/**
+**/labels/CustomLabels.labels-meta.xml
+
+# Static resources auto-generated files
+**/staticresources/*.resource
+**/staticresources/*.resource-meta.xml
+
+# Scratch org-related files
+.sfdx/**
+**/scratch-def.json
+
+# Node.js dependencies (if using Node.js with Salesforce)
+node_modules/**
+package-lock.json
+
+# LWC-related auto-generated files
+**/lwc/**/__tests__/
+**/lwc/**/__snapshots__/
+
+# Custom metadata translations (optional, depending on use case)
+translations/*.translation-meta.xml
+
+# Any other metadata types you don't want to track
+# Example: unused reports or dashboards
