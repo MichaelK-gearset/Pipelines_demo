@@ -3,6 +3,12 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <componentName>macros:macroUtilityItem</componentName>
+                <identifier>macros_macroUtilityItem</identifier>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
                 <componentInstanceProperties>
                     <name>eager</name>
                     <type>decorator</type>
