@@ -21,41 +21,6 @@
     <label>Test_app</label>
     <navType>Standard</navType>
     <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>New_account_page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>New_account_page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>Account.New_record</recordType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>New_account_page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>Account.Partner_Account</recordType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>New_account_page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>PersonAccount.PersonAccount</recordType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
         <actionName>Tab</actionName>
         <content>Home_Page</content>
         <formFactor>Large</formFactor>
@@ -63,44 +28,9 @@
         <type>Flexipage</type>
         <profile>Admin</profile>
     </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Property_Record_Page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Property__c</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Opportunity_Record_Page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Opportunity</pageOrSobjectType>
-        <recordType>Opportunity.Split</recordType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Opportunity_Record_Page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Opportunity</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
     <setupExperience>all</setupExperience>
     <tabs>standard-Account</tabs>
-    <tabs>Settings</tabs>
-    <tabs>standard-AppLauncher</tabs>
-    <tabs>standard-Campaign</tabs>
-    <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
-    <tabs>Test_Object__c</tabs>
-    <tabs>Test_Object_Category__c</tabs>
-    <tabs>Space_Station__c</tabs>
-    <tabs>Resource__c</tabs>
-    <tabs>Supply__c</tabs>
-    <tabs>Suggestion__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Test_app_UtilityBar</utilityBar>
 </CustomApplication>
