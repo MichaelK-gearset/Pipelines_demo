@@ -43,4 +43,10 @@
         <label>Other</label>
         <cssExposed>false</cssExposed>
     </standardValue>
+    <standardValue>
+        <fullName>Repro</fullName>
+        <default>false</default>
+        <label>Repro</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
 </StandardValueSet>
