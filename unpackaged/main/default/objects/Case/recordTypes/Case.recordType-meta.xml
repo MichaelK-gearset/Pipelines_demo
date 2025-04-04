@@ -114,6 +114,10 @@
             <fullName>Performance</fullName>
             <default>false</default>
         </values>
+        <values>
+            <fullName>Repro</fullName>
+            <default>false</default>
+        </values>
     </picklistValues>
     <picklistValues>
         <picklist>SLAViolation__c</picklist>
