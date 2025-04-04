@@ -20,13 +20,4 @@
     <tabs>standard-Product2</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>Property__c</tabs>
-    <tabs>Favorite__c</tabs>
-    <tabs>standard-WaveHome</tabs>
-    <tabs>Test_Object__c</tabs>
-    <tabs>Test_Object_Category__c</tabs>
-    <tabs>Space_Station__c</tabs>
-    <tabs>Resource__c</tabs>
-    <tabs>Supply__c</tabs>
-    <tabs>Suggestion__c</tabs>
 </CustomApplication>
